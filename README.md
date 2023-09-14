@@ -21,13 +21,12 @@
   The SWIFT network: The predominant payment network and messaging system used by banks and large financial entities today
 
  ## Results 
-* Impact: 
+* Impact: Ripple recently won a "half victory" against the SEC as the SEC alledged that Ripple was trading unregistered securities illegaly. A judge ruled that XRP bought on the open market by retare not securties however amounts of XRP sold to institutional investors           directly by Ripple. The crypto community saw this as a morale victory of sorts as it presented some clarification on what the United States government deems the identity of crypto to be. 
 * Trends & Innovations:
-* Performance:
+* Performance: The recent ruling saw the price of XRP spike to 93 cents, a surge of 96%. As of this writing, the SEC has appealed the ruling 
 
 ## Recommendations
-* In my opinion, crypto's greatest innovation is decentralization. The most significant drawback of RippleNet is how centralized it is. Ripple determines which validators are trusted. Another great negative is the sheer amount of tokens. XRP's maximum supply is 100 billion. Half of the total supply is held by Ripple in an escrow account. This means Ripple can unload and dilute the supply of XRP at any moment which creates risk for greater volatility attached to the value of the token.
-* My recommendation
+* In my opinion, crypto's greatest innovation is decentralization. The most significant drawback of RippleNet is how centralized it is. Ripple determines which validators are trusted. Another great negative is the sheer amount of tokens. XRP's maximum supply is 100 billion. Half of the total supply is held by Ripple in an escrow account. This means Ripple can unload and dilute the supply of XRP at any moment which creates risk for greater volatility and negative value of the token. My recommendation would be to figure out some kind of alternate validator system. I realize this has widespread, fundamental ramifications, however a majority of users move to crypto because of the mistrust of centralized authority. In a word, the biggest issue with Ripple is trust. 
 
 
 
