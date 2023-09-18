@@ -23,7 +23,7 @@
 
  ## Results 
 * Impact: Ripple recently won a "half victory" against the SEC as the SEC alledged that Ripple was trading unregistered securities illegaly. A judge ruled that XRP bought on the open market by retare not securties however amounts of XRP sold to institutional investors           directly by Ripple. The crypto community saw this as a morale victory of sorts as it presented some clarification on what the United States government deems the identity of crypto to be. 
-* Success by metrics: The XRP token on the RippleNet Blockchain is consistently among the top 10 marketcaps of cryptocurrencies
+* Success by metrics: The XRP token on the RippleNet Blockchain is consistently among the top 10 marketcaps of cryptocurrencies. According to tracxn.com, "Ripple has 162 active competitors and it ranks 1st among them." (Source 1).
 * Performance: The recent ruling saw the price of XRP spike to 93 cents, a surge of 96%. As of this writing, the SEC has appealed the ruling which has effected public sentiment and currently the trading price of XRP is back down to 50 cents.
 
 ## Recommendations
