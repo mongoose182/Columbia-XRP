@@ -15,7 +15,7 @@
 * Technologies implemented: RippleNet operates using a system referred to as a "Unique Node List (UNL)", which is comprised of over 150 validators. This differs from more conventional blockchain methods, such as proof of work or proof of stake. A transaction is            approved only when at least 80% of "trusted" validators agree on the transaction. Trusted validators are determined by Ripple Labs itself. (Source 5)
 
 ## Landscape
-* Domain: The XRP token on the RippleNet Blockchain is consistently among the top 10 marketcaps of cryptocurrencies
+* Domain: Ripple Labs, Inc. is a company that primarily operates in the domain of blockchain and digital payments within the financial industry.
 * Trends & Innovations: Ripple has succeeded in creating a suitable alternative to traditional money moving solutions. So much so that other financial giants are creating crypto alternatives. Accordingg to Paypal, having recently created their own stablecoin: "Fully-backed, regulated stablecoins have the potential to transform payments in web3 and digitally native environments." It is only a matter of time before other large peer to peer finance companies follow suit. (Source 6)
 * Relevant Competitors: 
   Other major cryptos: Bitcoin and Ethereum among others present widely used, fast methods for exchanging currencies and money
@@ -23,7 +23,7 @@
 
  ## Results 
 * Impact: Ripple recently won a "half victory" against the SEC as the SEC alledged that Ripple was trading unregistered securities illegaly. A judge ruled that XRP bought on the open market by retare not securties however amounts of XRP sold to institutional investors           directly by Ripple. The crypto community saw this as a morale victory of sorts as it presented some clarification on what the United States government deems the identity of crypto to be. 
-* Trends & Innovations:
+* Success by metrics: The XRP token on the RippleNet Blockchain is consistently among the top 10 marketcaps of cryptocurrencies
 * Performance: The recent ruling saw the price of XRP spike to 93 cents, a surge of 96%. As of this writing, the SEC has appealed the ruling 
 
 ## Recommendations
