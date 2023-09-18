@@ -18,13 +18,13 @@
 * Domain: Ripple Labs is a company that primarily operates in the domain of blockchain and digital payments within the financial industry.
 * Trends & Innovations: Ripple has succeeded in creating a suitable alternative to traditional money moving solutions. So much so that other financial giants are creating crypto alternatives. Accordingg to Paypal, having recently created their own stablecoin: "Fully-backed, regulated stablecoins have the potential to transform payments in web3 and digitally native environments." It is only a matter of time before other large peer to peer finance companies follow suit. (Source 6)
 * Relevant Competitors: 
-  Other major cryptos: Bitcoin and Ethereum among others present widely used, fast methods for exchanging currencies and money
+  Other major cryptos, Bitcoin and Ethereum among others present widely used, fast methods for exchanging currencies and money
   The SWIFT network: The predominant payment network and messaging system used by banks and large financial entities today
 
  ## Results 
 * Impact: Ripple recently won a "half victory" against the SEC as the SEC alledged that Ripple was trading unregistered securities illegaly. A judge ruled that XRP bought on the open market by retare not securties however amounts of XRP sold to institutional investors           directly by Ripple. The crypto community saw this as a morale victory of sorts as it presented some clarification on what the United States government deems the identity of crypto to be. 
 * Success by metrics: The XRP token on the RippleNet Blockchain is consistently among the top 10 marketcaps of cryptocurrencies
-* Performance: The recent ruling saw the price of XRP spike to 93 cents, a surge of 96%. As of this writing, the SEC has appealed the ruling 
+* Performance: The recent ruling saw the price of XRP spike to 93 cents, a surge of 96%. As of this writing, the SEC has appealed the ruling which has effected public sentiment and currently the trading price of XRP is back down to 50 cents.
 
 ## Recommendations
 * In my opinion, crypto's greatest innovation is decentralization. The most significant drawback of RippleNet is how centralized it is. Ripple determines which validators are trusted. Another great negative is the sheer amount of tokens. XRP's maximum supply is 100 billion. Half of the total supply is held by Ripple in an escrow account. This means Ripple can unload and dilute the supply of XRP at any moment which creates risk for greater volatility and negative value of the token. My recommendation would be to figure out some kind of alternate validator system. I realize this has widespread, fundamental ramifications, however a majority of users move to crypto because of the mistrust of centralized authority. In a word, the biggest issue with Ripple is trust. 
