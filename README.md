@@ -15,7 +15,8 @@
 * Technologies implemented: RippleNet operates using a system referred to as a "Unique Node List (UNL)", which is comprised of over 150 validators. This differs from more conventional blockchain methods, such as proof of work or proof of stake. A transaction is            approved only when at least 80% of "trusted" validators agree on the transaction. Trusted validators are determined by Ripple Labs itself. (Source 5)
 
 ## Landscape
-* Domain: XRP is consistently among the top 10 marketcaps of cryptocurrencies 
+* Domain: The XRP token on the RippleNet Blockchain is consistently among the top 10 marketcaps of cryptocurrencies
+* Trends & Innovations: Ripple has succeeded in creating a suitable alternative to traditional money moving solutions. So much so that other financial giants are creating crypto alternatives. Accordingg to Paypal, having recently created their own stablecoin: "Fully-backed, regulated stablecoins have the potential to transform payments in web3 and digitally native environments." It is only a matter of time before other large peer to peer finance companies follow suit. (Source 6)
 * Relevant Competitors: 
   Other major cryptos: Bitcoin and Ethereum among others present widely used, fast methods for exchanging currencies and money
   The SWIFT network: The predominant payment network and messaging system used by banks and large financial entities today
@@ -38,3 +39,4 @@
 3. https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/how-many-banks-are-adopting-ripple-so-far/
 4. https://www.forbes.com/advisor/investing/cryptocurrency/what-is-ripple-xrp/
 5. https://money.usnews.com/investing/term/ripple-xrp#:~:text=Ripple's%20default%20list%20of%20validators,the%2035%2B%20trusted%20validation%20nodes.
+6. https://newsroom.paypal-corp.com/2023-08-07-PayPal-Launches-U-S-Dollar-Stablecoin
